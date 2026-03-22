@@ -1,0 +1,16 @@
+{
+  "addOns": {
+    "common": {
+      "name": "Planning Poker",
+      "logoUrl": "https://YOUR_USERNAME.github.io/YOUR_REPO/assets/logo.png"
+    },
+    "meet": {
+      "web": {
+        "sidePanelUrl": "https://YOUR_USERNAME.github.io/YOUR_REPO/sidepanel/index.html",
+        "supportsScreenSharing": false,
+        "addOnOrigins": ["https://YOUR_USERNAME.github.io"],
+        "logoUrl": "https://YOUR_USERNAME.github.io/YOUR_REPO/assets/logo.png"
+      }
+    }
+  }
+}
