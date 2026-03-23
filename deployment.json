@@ -2,14 +2,14 @@
   "addOns": {
     "common": {
       "name": "Planning Poker",
-      "logoUrl": "https://github.com/cobalt-medma/planning-poker-meet/assets/logo.png"
+      "logoUrl": "https://cobalt-medma.github.io/planning-poker-meet/assets/logo.png"
     },
     "meet": {
       "web": {
-        "sidePanelUrl": "https://github.com/cobalt-medma/planning-poker-meet/sidepanel/index.html",
+        "sidePanelUrl": "https://cobalt-medma.github.io/planning-poker-meet/sidepanel/index.html",
         "supportsScreenSharing": false,
-        "addOnOrigins": ["https://github.com/cobalt-medma"],
-        "logoUrl": "https://github.com/cobalt-medma/planning-poker-meet/assets/logo.png"
+        "addOnOrigins": ["https://cobalt-medma.github.io"],
+        "logoUrl": "https://cobalt-medma.github.io/planning-poker-meet/assets/logo.png"
       }
     }
   }
